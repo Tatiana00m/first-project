@@ -1,0 +1,2 @@
+pablic static class Praktikum () {
+}
